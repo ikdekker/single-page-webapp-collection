@@ -1,5 +1,4 @@
-# single-page-webapp-collection
-Some of the apps I have created..
+# A collection of some of the apps I have created
 
 
 ## Overview of the projects
